@@ -1,0 +1,4 @@
+*.csv
+*runner.py
+.vscode
+__pycache__
